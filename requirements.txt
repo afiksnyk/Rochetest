@@ -10,4 +10,4 @@ pg8000==1.30.2
 psycopg2-binary==2.9.9
 pytest==7.4.4
 sqlalchemy==1.4.52
-setuptools==65.5.0
+setuptools==78.1.1
